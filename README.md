@@ -8,7 +8,7 @@ Clustering functional data, where each observation is represented by a curve def
 The main function. Requires either a matrix of coefficients or an `fd`-class type object (from the **fda** package) and either `d` or `G` to set the dimension for the projected space. Additional optional parameters can be set.
 
 ### **data_generation**
-A function to generate example curves as in Scenario 1 of the paper.
+A function to generate example curves as in the three Scenarios of the paper.
 
 ### **run_example**
 An illustrative example file demonstrating usage.
